@@ -1,0 +1,16 @@
+{
+  "name": "alt-bot-v6",
+  "version": "15.0.0",
+  "description": "Sese sokma botu alt yapısı",
+  "main": "just1n.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "altyapı",
+  "license": "ISC",
+  "dependencies": {
+    "@akarui/aoi.music": "^2.3.0",
+    "aoi.db": "^1.1.0",
+    "aoi.js": "^6.2.6"
+  }
+}
