@@ -1,8 +1,8 @@
 echo off
-title Speed Starting
+title Just1N Starting
 color c
 cls
 :a
-node Speed.js
+node Just1N.js
 goto a
 pause
