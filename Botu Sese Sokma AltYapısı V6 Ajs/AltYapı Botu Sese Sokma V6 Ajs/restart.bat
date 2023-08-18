@@ -1,7 +1,7 @@
 echo off
-title Speed Restarting
+title Just1N Restarting
 color d
 cls
 :a
-pm2 restart Speed.js
+pm2 restart Just1N.js
 goto a
